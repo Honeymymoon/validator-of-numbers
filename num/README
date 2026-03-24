@@ -1,0 +1,5 @@
+This program:
+1. Converts a string (str) to an integer (int)
+2. Detects if the input is NOT a number
+3. Detects non-natural numbers
+4. Validates the entered number
